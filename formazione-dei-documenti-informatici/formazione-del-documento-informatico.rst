@@ -1,5 +1,5 @@
 Formazione del documento informatico 
-=====================================
+---------------------------------------
 
 Il contenuto del presente capitolo si applica, salvo ove diversamente
 specificato, ai soggetti di cui all’art. 2 commi 2 e 3 del CAD.
