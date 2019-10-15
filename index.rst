@@ -8,7 +8,7 @@ gestione e conservazione dei documenti informatici*, disponibile per la
 consultazione pubblica.
 
 .. toctree::
-  :maxdepth: 4
+  :maxdepth: 2
   :numbered:
  
   introduzione-strumenti-di-lettura-e-disposizioni-comuni.rst
