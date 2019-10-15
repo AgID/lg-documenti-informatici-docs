@@ -10,8 +10,7 @@ consultazione pubblica.
 .. toctree::
   :maxdepth: 4
   :numbered:
-  :caption: Indice dei contenuti
-
+ 
   introduzione-strumenti-di-lettura-e-disposizioni-comuni.rst
   formazione-dei-documenti-informatici.rst
   gestione-documentale.rst
