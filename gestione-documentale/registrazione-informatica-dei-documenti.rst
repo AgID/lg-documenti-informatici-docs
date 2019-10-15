@@ -1,2 +1,0 @@
-Registrazione informatica dei documenti 
-========================================
