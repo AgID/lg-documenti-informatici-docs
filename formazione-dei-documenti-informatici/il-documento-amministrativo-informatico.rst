@@ -1,2 +1,0 @@
-Il documento amministrativo informatico 
-========================================
