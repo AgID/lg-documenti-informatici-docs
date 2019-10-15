@@ -1,4 +1,3 @@
-|image0|
 
 Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 ======================================================================================================
@@ -20,6 +19,3 @@ informatici è attiva dal **xx ottobre** al **xx novembre 2019**.
   gestione-documentale.rst
   conservazione.rst
 
-.. |image0| image:: ./media/image1.png
-   :width: 6.27083in
-   :height: 0.75in
