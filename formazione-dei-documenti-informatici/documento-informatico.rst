@@ -1,2 +1,0 @@
-Documento informatico 
-======================
