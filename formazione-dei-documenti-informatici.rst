@@ -6,9 +6,7 @@ Formazione dei documenti informatici
   :caption: Indice dei contenuti
 
   formazione-dei-documenti-informatici/documento-informatico.rst
-  formazione-dei-documenti-informatici/formazione-del-documento-informatico.rst
   formazione-dei-documenti-informatici/copie-per-immagine-su-supporto-informatico-di-documenti-analogici.rst
   formazione-dei-documenti-informatici/duplicati-copie-ed-estratti-informatici-di-documenti-informatici.rst
-  formazione-dei-documenti-informatici/il-documento-amministrativo-informatico.rst
   formazione-dei-documenti-informatici/formazione-del-documento-amministrativo-informatico.rst
   formazione-dei-documenti-informatici/copie-su-supporto-informatico-di-documenti-amministrativi-analogici.rst
