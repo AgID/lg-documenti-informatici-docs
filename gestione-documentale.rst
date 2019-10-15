@@ -6,7 +6,6 @@ Gestione documentale
   :caption: Indice dei contenuti
 
   gestione-documentale/registrazione-informatica-dei-documenti.rst
-  gestione-documentale/ambito-di-applicazione.rst
   gestione-documentale/adeguamento-organizzativo-e-funzionale.rst
   gestione-documentale/registrazione-informatica-dei-documenti-1.rst
   gestione-documentale/formato-della-registrazione-e-della-segnatura-di-protocollo.rst
