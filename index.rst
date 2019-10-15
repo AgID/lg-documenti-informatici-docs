@@ -1,10 +1,10 @@
 |image0|
 
-Linee Guida sulla formazione, gestione e conservazione dei documenti
-informatici
+Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 ======================================================================================================
 
 .. admonition:: consultation
+   
    
    La consultazione pubblica relativa alle inee Guida sulla formazione, gestione e conservazione dei documenti
 informatici è attiva dal **xx ottobre** al **xx novembre 2019**. 
