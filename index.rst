@@ -9,7 +9,7 @@ consultazione pubblica.
 
 .. toctree::
   :maxdepth: 3
-  :numberd:
+  :numbered:
   :caption: Indice dei contenuti
 
   introduzione-strumenti-di-lettura-e-disposizioni-comuni.rst
