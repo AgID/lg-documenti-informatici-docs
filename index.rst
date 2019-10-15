@@ -1,4 +1,7 @@
-Consultation 
+Linee guida sulla formazione, gestione e conservazione dei documenti informatici
+==========================================================
+
+.. admonition:: consultation
 
 Questo documento raccoglie il testo delle linee guida sulla *Formazione,
 gestione e conservazione dei documenti informatici*, disponibile per la
