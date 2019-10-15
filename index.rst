@@ -8,7 +8,7 @@ gestione e conservazione dei documenti informatici*, disponibile per la
 consultazione pubblica.
 
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 4
   :numbered:
   :caption: Indice dei contenuti
 
