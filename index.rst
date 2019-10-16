@@ -5,7 +5,7 @@ Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
 .. admonition:: consultation
    
    
-   La consultazione pubblica relativa alle inee Guida sulla formazione, gestione e conservazione dei documenti informatici è attiva dal **xx ottobre** al **xx novembre 2019**. 
+   La consultazione pubblica relativa alle inee Guida sulla formazione, gestione e conservazione dei documenti informatici è attiva dal **17 ottobre** al **17 novembre 2019**. 
 
 .. toctree::
   :maxdepth: 3
@@ -18,3 +18,10 @@ Linee Guida sulla formazione, gestione e conservazione dei documenti informatici
   gestione-documentale.rst
   conservazione.rst
 
+.. toctree::
+   allegato-1/index.rst
+   allegato-2/index.rst
+   allegato-3/index.rst
+   allegato-4/index.rst
+   allegato-5/index.rst
+   allegato-6/index.rst
