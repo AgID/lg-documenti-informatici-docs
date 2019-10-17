@@ -34,7 +34,7 @@ provvedono a:
 
 A. individuare le aree organizzative omogenee (di seguito AOO) e i
    relativi uffici di riferimento ai sensi dell’art. 50, comma 4, del
-   TUDA [1]_;
+   TUDA [3]_;
 
 B. nominare, in ciascuna delle AOO, il responsabile della gestione
    documentale e un suo vicario;
@@ -48,14 +48,14 @@ D. adottare per ogni AOO il manuale di gestione documentale, su proposta
    coordinatore della gestione documentale.
 
 Secondo quanto previsto dal CAD e dalle Linee guida AGID del 15 aprile
-2019 [2]_, l’Indice dei domicili digitali delle Pubbliche
+2019 [4]_, l’Indice dei domicili digitali delle Pubbliche
 Amministrazioni e dei gestori di pubblici servizi, di seguito indicato
 con l’acronimo IPA, include, tra gli indirizzi telematici degli Enti ivi
 iscritti, il domicilio digitale da cui provengono, o sono inviate,
 comunicazioni, istanze, dichiarazioni e notifiche che formano oggetto di
 registrazione di protocollo.
 
-.. [1]
+.. [3]
     L’art. 50, comma 4, del TUDA prevede che “Ciascuna amministrazione
    individua, nell'ambito del proprio ordinamento, gli uffici da
    considerare ai fini della gestione unica o coordinata dei documenti
@@ -63,7 +63,7 @@ registrazione di protocollo.
    di classificazione e archiviazione, nonché di comunicazione interna
    tra le aree stesse”.
 
-.. [2]
+.. [4]
     Linee Guida dell’Indice dei domicili digitali delle pubbliche
    amministrazioni e dei gestori di pubblici servizi.
 
@@ -75,7 +75,7 @@ La registrazione informatica dei documenti è garantita dall’insieme di
 dati in forma elettronica allegati o connessi al documento informatico
 al fine dell’identificazione univoca di tutti i documenti prodotti e
 acquisiti. Per la Pubblica Amministrazione vale quanto disposto ai sensi
-dell’articolo 53 comma 5 del TUDA [3]_.
+dell’articolo 53 comma 5 del TUDA [5]_.
 
 Al termine della registrazione, il documento è identificato da un
 insieme di dati in forma elettronica che includono la classificazione e
@@ -91,11 +91,11 @@ corrente, gestione dei flussi documentali, automatizzazione dei
 procedimenti amministrativi sulla base dei propri obiettivi di
 miglioramento dei servizi e di incremento dell’efficienza operativa,
 tenuto conto del rapporto costi e benefici, nel rispetto degli articoli
-53 e 55 del TUDA [4]_ e dei requisiti del sistema di gestione
+53 e 55 del TUDA [6]_ e dei requisiti del sistema di gestione
 informatica dei documenti e dei flussi documentali" definiti negli
-articoli 52 e 65 del TUDA [5]_.
+articoli 52 e 65 del TUDA [7]_.
 
-.. [3]
+.. [5]
     L’art. 53, comma 5, del TUDA prevede che “Sono oggetto di
    registrazione obbligatoria i documenti ricevuti e spediti
    dall'amministrazione e tutti i documenti informatici. Ne sono esclusi
@@ -106,11 +106,11 @@ articoli 52 e 65 del TUDA [5]_.
    gli inviti a manifestazioni e tutti i documenti già soggetti a
    registrazione particolare dell'amministrazione”.
 
-.. [4]
+.. [6]
     Gli articoli 53 e 55 del TUDA disciplinano, rispettivamente, in
    materia di registrazioni di protocollo e segnatura di protocollo.
 
-.. [5]
+.. [7]
     Gli articoli 52 e 65 del TUDA disciplinano, rispettivamente, in
    materia di sistema di gestione informatica dei documenti e requisiti
    del sistema per la gestione dei flussi documentali
@@ -123,7 +123,7 @@ La registrazione di protocollo è l’insieme dei metadati che il registro
 di protocollo deve memorizzare, per tutti i documenti ricevuti o spediti
 dalla Pubblica Amministrazione, al fine di garantirne l'identificazione
 univoca e certa. In merito, l’articolo 53, comma 1, del TUDA indica le
-informazioni che caratterizzano il registro di protocollo [6]_ , a cui si
+informazioni che caratterizzano il registro di protocollo [8]_ , a cui si
 aggiungono le informazioni inerenti l’assegnazione interna
 all’amministrazione e la classificazione.
 
@@ -133,7 +133,7 @@ informazioni riguardanti i documenti stessi, in ingresso e in uscita al
 sistema di protocollo, utile alla sua identificazione univoca e certa.
 
 In merito l’articolo 55, comma 1, del TUDA individua le informazioni che
-caratterizzano la segnatura di protocollo [7]_.
+caratterizzano la segnatura di protocollo [9]_.
 
 Le operazioni di segnatura e registrazione di protocollo sono effettuate
 contemporaneamente.
@@ -144,7 +144,7 @@ le Pubbliche Amministrazioni e associate ai documenti protocollati” sono
 definiti nell’allegato 6 “Comunicazione tra AOO di Documenti
 Amministrativi Protocollati”.
 
-.. [6]
+.. [8]
     L’art. 53, comma 1, del TUDA prevede che: “La registrazione di
    protocollo per ogni documento ricevuto o spedito dalle pubbliche
    amministrazioni è effettuata mediante la memorizzazione delle
@@ -169,7 +169,7 @@ Amministrativi Protocollati”.
    identificarne univocamente il contenuto, registrata in forma non
    modificabile”.
 
-.. [7]
+.. [8]
     L’art. 55, comma 1, del TUDA prevede che: “La segnatura di
    protocollo è l’apposizione o l’associazione all'originale del
    documento, in forma permanente non modificabile, delle informazioni
@@ -211,7 +211,7 @@ protocollo informatico assicura che:
    comparabili, nel rispetto di quanto previsti dall’art. 54, comma 2
    del TUDA.
 
-.. [1]
+.. [9]
     L’art. 54, comma 2, del TUDA prevede che: “La procedura per indicare
    l’annullamento riporta, secondo i casi, una dicitura o un segno in
    posizione sempre visibile e tale, comunque, da consentire la lettura
