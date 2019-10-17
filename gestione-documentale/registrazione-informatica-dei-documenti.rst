@@ -169,7 +169,7 @@ Amministrativi Protocollati”.
    identificarne univocamente il contenuto, registrata in forma non
    modificabile”.
 
-.. [8]
+.. [9]
     L’art. 55, comma 1, del TUDA prevede che: “La segnatura di
    protocollo è l’apposizione o l’associazione all'originale del
    documento, in forma permanente non modificabile, delle informazioni
