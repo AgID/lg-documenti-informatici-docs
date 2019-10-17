@@ -128,7 +128,7 @@ fascicoli.
 I fascicoli appartenenti a serie diverse possono essere collegati tra
 loro.
 
-Ai sensi dell’art. 50, comma 4, del TUDA [1]_, il sistema di gestione
+Ai sensi dell’art. 50, comma 4, del TUDA [3]_, il sistema di gestione
 informatica dei documenti dell’AOO permette la formazione, gestione ed
 utilizzo delle serie informatiche secondo il piano di classificazione e
 fascicolazione e sulla base delle indicazioni contenute nel manuale di
@@ -193,7 +193,7 @@ gestione documentale, ove nominato, definisce eventuali ulteriori
 metadati in funzione del contesto e delle necessità gestionali e
 conservative.
 
-.. [1]
+.. [3]
     L’art. 50, comma 4, del TUDA, prevede che: “Ciascuna amministrazione
    individua, nell’ambito del proprio ordinamento, gli uffici da
    considerare ai fini della gestione unica o coordinata dei documenti
