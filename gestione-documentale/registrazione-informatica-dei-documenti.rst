@@ -196,7 +196,7 @@ protocollo informatico assicura che:
 
 -  le informazioni relative all’oggetto, al mittente e al destinatario
    di una registrazione di protocollo, non possano essere modificate, ma
-   solo annullate con la procedura prevista dall’art. 54 del TUDA [1]_;
+   solo annullate con la procedura prevista dall’art. 54 del TUDA [10]_;
 
 -  le uniche informazioni modificabili di una registrazione di
    protocollo siano l’assegnazione interna all’amministrazione e la
@@ -211,7 +211,7 @@ protocollo informatico assicura che:
    comparabili, nel rispetto di quanto previsti dall’art. 54, comma 2
    del TUDA.
 
-.. [9]
+.. [10]
     L’art. 54, comma 2, del TUDA prevede che: “La procedura per indicare
    l’annullamento riporta, secondo i casi, una dicitura o un segno in
    posizione sempre visibile e tale, comunque, da consentire la lettura
