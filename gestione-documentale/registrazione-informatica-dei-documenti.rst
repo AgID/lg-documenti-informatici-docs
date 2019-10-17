@@ -123,7 +123,7 @@ La registrazione di protocollo è l’insieme dei metadati che il registro
 di protocollo deve memorizzare, per tutti i documenti ricevuti o spediti
 dalla Pubblica Amministrazione, al fine di garantirne l'identificazione
 univoca e certa. In merito, l’articolo 53, comma 1, del TUDA indica le
-informazioni che caratterizzano il registro di protocollo [1]_, a cui si
+informazioni che caratterizzano il registro di protocollo [1]_ , a cui si
 aggiungono le informazioni inerenti l’assegnazione interna
 all’amministrazione e la classificazione.
 
