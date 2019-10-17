@@ -7,4 +7,4 @@ Allegato 5 - I metadati
    :class: useful-docs
 
    - :mimetype:`application/pdf` :download:`I metadati
-     <All 5 I metadati.pdf>`
+     <All 5 - I metadati.pdf>`
