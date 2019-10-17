@@ -312,7 +312,7 @@ Copie su supporto informatico di documenti amministrativi analogici
 -------------------------------------------------------------------
 
 Alle copie su supporto informatico di documenti amministrativi analogici
-si applicano le disposizioni di cui al paragrafo 2.2.2.
+si applicano le disposizioni di cui al paragrafo 2.2.
 
 L’attestazione di conformità della copia informatica di un documento
 amministrativo analogico, formato dalla Pubblica Amministrazione, ovvero
