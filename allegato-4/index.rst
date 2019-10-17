@@ -7,4 +7,4 @@ Allegato 4 - Standard e specifiche tecniche
    :class: useful-docs
 
    - :mimetype:`application/pdf` :download:`Standard e specifiche tecniche
-     <All 4 Standard e specifiche tecniche.pdf>`
+     <All 4 - Standard e specifiche tecniche.pdf>`
