@@ -86,28 +86,12 @@ garantite da una o più delle seguenti operazioni:
 La certezza dell’autore è la capacità di poter associare in maniera
 certa e permanente il soggetto che ha sottoscritto il documento stesso.
 
-Al momento della formazione del documento informatico immodificabile,
-devono essere generati e associati permanentemente ad esso i relativi
-metadati. L’insieme minimo dei metadati, come definiti nell’allegato 5
-“Metadati” alle presenti linee guida, è costituito da:
+Al momento della formazione del documento informatico immodificabile, 
+devono essere generati e associati permanentemente ad esso i relativi 
+metadati. L’insieme dei metadati del documento informatico è definito 
+nell’allegato 5 “Metadati” alle presenti linee guida.
 
-a) l’identificativo alfanumerico univoco e persistente;
 
-b) il riferimento temporale;
-
-c) l’oggetto;
-
-d) il soggetto che ha formato il documento;
-
-e) il destinatario, se presente;
-
-f) l’impronta crittografica del documento informatico (eventualmente
-contenuta in una firma, sigillo o marcatura temporale elettronica e
-qualora non già coincidente con l’identificativo univoco).
-
-Eventuali ulteriori metadati sono definiti in funzione del contesto e
-delle necessità gestionali e conservative, in conformità a quanto
-previsto nell’Allegato 5 “Metadati”.
 
 La disponibilità e la riservatezza delle informazioni contenute nel
 documento informatico sono garantite attraverso l’adozione di specifiche
