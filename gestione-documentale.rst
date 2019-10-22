@@ -293,7 +293,9 @@ Aggregazioni documentali informatiche e archivio informatico
 La Pubblica Amministrazione documenta la propria attività tramite
 funzioni del sistema di gestione documentale finalizzate alla
 produzione, alla gestione e all’uso delle aggregazioni documentali
-informatiche, corredate da opportuni metadati.
+informatiche, corredate da opportuni metadati, così come definiti 
+nell’allegato 5 “Metadati” alle presenti Linee guida.
+
 
 
 I fascicoli informatici 
@@ -308,38 +310,6 @@ La produzione, il mantenimento e l’uso dei fascicoli informatici sono
 conformi a quanto stabilito dall’art. 65 [13]_ del TUDA e dell’art
 41 [14]_ del CAD.
 
-Il fascicolo informatico è corredato da un set di metadati che comprende
-almeno:
-
-1. l’identificativo che lo individua in modo univoco all’interno
-   dell’AOO titolare dell’attività o del procedimento amministrativo;
-
-2. i dati di classificazione
-
-3. l’indicazione dell’unità organizzativa titolare dell’attività o del
-   procedimento amministrativo;
-
-4. l’indicazione delle altre unità organizzative che partecipano alle
-   attività o al procedimento amministrativo;
-
-5. l’indicazione del responsabile dell’attività o del procedimento
-   amministrativo;
-
-6. l'oggetto del fascicolo che fornisce le indicazioni relative
-   all’attività o del procedimento amministrativo;
-
-7. l'elenco dei documenti da esso aggregati, anche solo in forma di
-   elenco degli identificativi con cui tali documenti sono stati
-   registrati;
-
-8. la sua data di apertura;
-
-9. la sua data di chiusura.
-
-Il Responsabile della gestione documentale o il coordinatore della
-gestione documentale, ove nominato, definisce eventuali ulteriori
-metadati in funzione del contesto e delle necessità gestionali e
-conservative.
 
 .. [13]
     L’articolo 65 del TUDA prevede che: “Oltre a possedere i requisiti
@@ -424,10 +394,7 @@ fascicolazione e sulla base delle indicazioni contenute nel manuale di
 gestione documentale dell’AOO, integrato con il suo piano di
 classificazione.
 
-La serie è corredata da un set di metadati che comprende almeno:
 
-1. l’identificativo che la individua in modo univoco all’interno
-   dell’AOO;
 
 
 Registri e repertori informatici
