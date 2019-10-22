@@ -222,22 +222,31 @@ elenchi, negli archivi o nelle raccolte di dati contenute nel sistema di
 gestione informatica dei documenti con le modalità descritte nel manuale
 di gestione documentale.
 
-Al documento amministrativo informatico viene associato l’insieme dei
-metadati previsti per la registrazione di protocollo ai sensi dell’art
-53 del TUDA [5]_, nonché i metadati relativi alla classificazione, ai
-sensi dell’articolo 56 del TUDA [6]_, e ai tempi di conservazione, in
-coerenza con il piano di conservazione, e quelli relativi alla relazione
-con l’aggregazione documentale informatica d'appartenenza.
+Al documento amministrativo informatico viene associato un insieme
+di metadati, come indicato nell’allegato 5 “Metadati” alle presenti 
+Linee guida, così come previsto ai sensi dell’art 53 del TUDA [5]_ 
+per la registrazione di protocollo, nonché ai sensi dell’articolo
+56 del TUDA [6]_ per i metadati relativi alla classificazione ed 
+alla definizione dei tempi di conservazione, in coerenza con il piano di conservazione e dei
+metadati che definiscono la relazione con l’aggregazione
+documentale informatica d’appartenenza. 
 
-Sono fatti salvi i documenti soggetti a registrazione particolare che
-comunque possono contenere al proprio interno o avere associati
-l’insieme minimo dei metadati previsti per il documento informatico
-immodificabile, come descritto nel manuale di gestione documentale. Al
-documento amministrativo informatico sono associati eventuali ulteriori
-metadati rilevanti ai fini amministrativi o per finalità gestionali o
-conservative, definiti, per ogni tipologia di documento, nell’ambito del
-contesto a cui esso si riferisce, e descritti nel manuale di gestione
-documentale.
+Inoltre, sono associati i metadati atti a fornire le informazioni
+relative alla modalità di formazione e alla tipologia del documento,
+alla presenza di allegati, alla riservatezza dello stesso, alle
+informazioni per identificare il formato, alla versione, e, infine,
+all’esito delle verifiche a cui il documento viene sottoposto. 
+
+Fanno eccezione i documenti soggetti a registrazione particolare a 
+cui comunque vengono associati l’insieme dei metadati previsti
+per il documento informatico immodificabile, come descritto nel 
+manuale di gestione documentale.
+
+Al documento amministrativo informatico sono associati eventuali
+ulteriori metadati rilevanti ai fini amministrativi o per finalità
+gestionali o conservative, definiti, per ogni tipologia di documento, 
+nell’ambito del contesto a cui esso si riferisce, e descritti nel 
+manuale di gestione documentale.
 
 Ulteriori metadati associati al documento amministrativo informatico in
 funzione della specificità di una o più Amministrazioni sono definiti da
