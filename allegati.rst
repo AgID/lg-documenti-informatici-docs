@@ -12,8 +12,8 @@ Allegati
      <allegati/All 3 - Certificazione di processo.pdf>`
    - :mimetype:`application/pdf` :download:`Standard e specifiche tecniche
      <allegati/All 4 - Standard e specifiche tecniche.pdf>`
-   - :mimetype:`application/pdf` :download:`I metadati
-     <allegati/All 5 - I metadati.pdf>`
+   - :mimetype:`application/pdf` :download:`I Metadati
+     <allegati/All 5 - I Metadati.pdf>`
    - :mimetype:`application/pdf` :download:`Comunicazione tra AOO di Documenti Amministrativi Protocollati
      <allegati/All 6 - Comunicazione tra AOO di Documenti Amministrativi Protocollati.pdf>`
 
