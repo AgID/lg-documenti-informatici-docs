@@ -425,29 +425,6 @@ già nella sua fase di progettazione, continuità e rigore dovendo
 assicurare certezza e trasparenza all’attività giuridico amministrativa.
 
 
-2. classificazione
-
-3. l’indicazione della/e unità organizzativa/e titolare/i delle attività
-   a cui si riferisce la serie informatica;
-
-4. la denominazione del tipo di attività a cui essa si riferisce;
-
-5. la descrizione del tipo di attività a cui essa si riferisce;
-
-6. l'elenco dei documenti o dei fascicoli da essa aggregati, anche solo
-   in forma di elenco degli identificativi con cui essi sono stati
-   registrati;
-
-7. la data di apertura;
-
-8. la data di chiusura nel caso in cui l’AOO stabilisca che essa non
-   possa più essere alimentata da ulteriori documenti o fascicoli
-   informatici.
-
-Il Responsabile della gestione documentale o il coordinatore della
-gestione documentale, ove nominato, definisce eventuali ulteriori
-metadati in funzione del contesto e delle necessità gestionali e
-conservative.
 
 .. [15]
     L’art. 50, comma 4, del TUDA, prevede che: “Ciascuna amministrazione
