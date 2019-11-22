@@ -248,12 +248,6 @@ gestionali o conservative, definiti, per ogni tipologia di documento,
 nell’ambito del contesto a cui esso si riferisce, e descritti nel 
 manuale di gestione documentale.
 
-Ulteriori metadati associati al documento amministrativo informatico in
-funzione della specificità di una o più Amministrazioni sono definiti da
-queste ultime, sentito il Ministero per i beni e le attività culturali,
-e trasmessi all’Agenzia per l’Italia digitale che ne cura la
-pubblicazione sul proprio sito.
-
 .. [2]
     L’art. 5-bis, comma 1, del CAD prevede che “La presentazione di
    istanze, dichiarazioni, dati e lo scambio di informazioni e
