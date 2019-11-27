@@ -540,7 +540,7 @@ Sicurezza del sistema di conservazione
 Nelle Pubbliche Amministrazioni, il responsabile della conservazione, di
 concerto con il responsabile della sicurezza e con il responsabile della
 transizione digitale, acquisito il parere del responsabile della
-protezione ei dati personali, provvede a predisporre, nell’ambito del
+protezione dei dati personali, provvede a predisporre, nell’ambito del
 piano generale della sicurezza, il piano della sicurezza del sistema di
 conservazione, mettendo in atto opportune misure tecniche e
 organizzative per garantire un livello di sicurezza adeguato al rischio
