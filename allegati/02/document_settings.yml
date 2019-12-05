@@ -1,0 +1,17 @@
+document:
+  type: Allegato alle linee guida
+  name: "Allegato 2: Formati di file e riversamento"
+  short_name: All.2 Formati file e riversamento
+  author: walter-arrighetti
+  contributors:
+    - Walter Arrighetti
+  description: |
+    Allegato 2 delle LL.GG. sul documento informatico - Formati di file e Riversamento
+  tags:
+    - container
+    - wrapper
+    - busta
+    - pacchetto di file
+    - riversamento
+    - QSeal
+  origin: https://github.com/AgID/lg-documenti-informatici-docs/allegati/02/
