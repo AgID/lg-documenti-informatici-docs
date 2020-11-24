@@ -14,6 +14,6 @@ Allegato 2: Formati di file e riversamento
    :maxdepth: 3
    :caption: Indice dei contenuti
 
-   main/01_introduzione.rst
-   main/02_formati-file.rst
-   main/03_riversamento-formato.rst
+   02/01_introduzione.rst
+   02/02_formati-file.rst
+   02/03_riversamento-formato.rst
